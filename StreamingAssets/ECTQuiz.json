@@ -1,0 +1,74 @@
+{
+  "questions": [
+    {
+      "question": "To which GB's partner SX/ECT working for?",
+      "options": ["BSH", "PT", "BT", "HC"],
+      "correctAnswer": "HC"
+    },
+    {
+      "question": "How many GB's partners SX/ECT working with?",
+      "options": ["1", "4", "3", "2"],
+      "correctAnswer": "1"
+    },
+    {
+      "question": "How many groups are in SX/ECT?",
+      "options": ["3", "2", "4", "5"],
+      "correctAnswer": "3"
+    },
+    {
+      "question": "On which technology SX/ECT is not working currently?",
+      "options": ["Java", "Angular", "Embedded C", "Machine Learning"],
+      "correctAnswer": "Machine Learning"
+    },
+    {
+      "question": "What is the specific focus of the SX/ECT-MM department within the Bosch Business unit of Home Comfort (HC)?",
+      "options": ["Industrial Solutions", "HVAC domain", "Electric Solutions", "Climate & Well-Being"],
+      "correctAnswer": "HVAC domain"
+    },
+    {
+      "question": "What phase involves creating wireframes and software requirements in the product development process?",
+      "options": ["Product Concept Phase", "Product Design Phase", "Development Phase", "Testing Phase"],
+      "correctAnswer": "Product Design Phase"
+    },
+    {
+      "question": "What type of testing involves assessing system behavior rather than testing individual product requirements?",
+      "options": ["Unit testing", "Integration testing", "System testing", "User acceptance testing"],
+      "correctAnswer": "System testing"
+    },
+    {
+      "question": "Which division is not part of Bosch Home Comfort division?",
+      "options": ["Electric Solutions", "Combustion Systems", "Climate & Well-Being", "Industry automation"],
+      "correctAnswer": "Industry automation"
+    },
+    {
+      "question": "What do Controllers function as for heating systems?",
+      "options": ["System controller", "Remote controller", "Both a and b", "None of the above"],
+      "correctAnswer": "Both a and b"
+    },
+    {
+      "question": "What does the Self Service Portal platform serve as for the SX/ECT-MM department?",
+      "options": ["Internal customer resource", "External customer resource", "Product development platform", "Testing platform"],
+      "correctAnswer": "Internal customer resource"
+    },
+    {
+      "question": "What does the ECU-Simulator program facilitate for the department?",
+      "options": ["Creation of HVAC system in a PC environment", "Visualization of virtual HC-products", "Both a and b", "None of the above"],
+      "correctAnswer": "Both a and b"
+    },
+    {
+      "question": "What is the specific focus of the Industrial Solutions division within the Bosch Home Comfort division?",
+      "options": ["Residential water heating", "Industrial and commercial applications", "Climate and well-being", "Combustion-based heating solutions"],
+      "correctAnswer": "Industrial and commercial applications"
+    },
+    {
+      "question": "What do Appliance Control Units oversee for boilers?",
+      "options": ["Gas leakage detection", "Pump activation", "Both a and b", "None of the above"],
+      "correctAnswer": "Both a and b"
+    },
+    {
+      "question": "What is the main focus of the SX/ECT-MM department within the Bosch Business unit of Home Comfort (HC)?",
+      "options": ["Product Design Phase", "Development Phase", "Testing Phase", "All of the above"],
+      "correctAnswer": "All of the above"
+    }
+  ]
+}
